@@ -1,10 +1,10 @@
-#**Simple Staph Genomics Analysis Toolkit**
+# **Simple Staph Genomics Analysis Toolkit**
 
 This repository contains a collection of Bash scripts and environment configurations for the automated processing of *Staphylococcus aureus* and a simple pipeline for Next-Generation Sequencing (NGS) data.
 
 This toolkit provides a streamlined, reproducible workflow for pathogen surveillance. It handles raw sequence data cleaning, alignment to a reference genome, and generation of alignment statistics.
 
-###**| File | Description |**
+### **| File | Description |**
 
 | `simple_pipeline_for_allV2.sh` | **Current Stable Script.** Features environment guards, error handling (`set -e`), and automated BWA indexing. |
 
@@ -14,7 +14,7 @@ This toolkit provides a streamlined, reproducible workflow for pathogen surveill
 
 | `Simple_pipeline_SRR37176627` | Where the project started. |
 
-###**Setup & Requirements**
+### **Setup & Requirements**
 
 1. Recreate the Environment
 Instead of manual installations, you can recreate the exact analysis environment used for this project:
