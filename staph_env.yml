@@ -1,0 +1,10 @@
+name: staph_env
+channels:
+  - conda-forge
+dependencies:
+  - samtools
+  - bc
+  - fastp
+  - jq
+  - bwa
+prefix: /home/luis-davila/miniforge3/envs/staph_env
