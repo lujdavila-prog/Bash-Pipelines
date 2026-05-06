@@ -6,7 +6,9 @@ This toolkit provides a streamlined, reproducible workflow for pathogen surveill
 
 ### **| File | Description |**
 
-| `simple_pipeline_for_allV2.sh` | **Current Stable Script.** Features environment guards, error handling (`set -e`), and automated BWA indexing. |
+| 'simple_pipeline_for_allV3.sh | Similar code as V2 can now be used for batch processing, as well as complete automation. |
+
+| `simple_pipeline_for_allV2.sh` |  Features environment guards, error handling (`set -e`), and automated BWA indexing. |
 
 | `staph_env.yml` | **Conda Environment Specification.** Contains all software dependencies and versioning. |
 
