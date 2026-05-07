@@ -1,6 +1,6 @@
 # **Simple Staph Genomics Analysis Toolkit**
 
-This repository contains a collection of Bash scripts and environment configurations for the automated processing of multiple samlpe batches,  *Staphylococcus aureus*, and a simple pipeline for Next-Generation Sequencing (NGS) data.
+This repository contains a collection of Bash scripts and environment configurations for the automated processing of multiple sample batches,  *Staphylococcus aureus*, and a simple pipeline for Next-Generation Sequencing (NGS) data.
 
 This toolkit provides a streamlined, reproducible workflow for pathogen surveillance. It handles raw sequence data cleaning, alignment to a reference genome, and generation of alignment statistics.
 
